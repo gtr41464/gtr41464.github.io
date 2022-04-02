@@ -1,0 +1,11 @@
+h1, h2, etc.: Used to denote headings and subheadings within the text
+image: Displays images relevant to the subject matter
+p: Breaks up text into paragraphs
+list: Used to list information within the text
+table: Displays a table of information relevant to the subject matter
+
+font: Used to change the font color
+bold: Emphasizes certain text
+italics: Emphasizes certain text
+comment: Explains something about the code
+link: Links to other web pages used as sources
